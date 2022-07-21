@@ -1,5 +1,6 @@
 #Created by Jasonfmj.
 #This script is used to Remove Duplicates on an excel .xlsx spreadsheet.
+#You need pandas library to make it work.
 
 import pandas as pd
 theFile = input("Please enter full path and file to remove duplicates: ")
